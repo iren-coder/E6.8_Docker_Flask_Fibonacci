@@ -1,3 +1,21 @@
 *.pyc
 venv
 venv/
+
+# Lib/
+Scripts/
+__pycache__/
+tcl/
+Include/
+pyvenv.cfg
+LICENSE.txt
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
